@@ -2,15 +2,15 @@
 
 두 개의 submodule 로 이루어져 있습니다.
 
-- [server](https://github.com/angelhack-study-buddies/study-buddies-server)
-- [client](https://github.com/angelhack-study-buddies/study-buddies-client)
+- [server](https://github.com/project-soda/study-buddies-server)
+- [client](https://github.com/project-soda/study-buddies-client)
 
 한꺼번에 다운로드 받기 위해서는 아래 명령어를 이용합니다.
 
 ```
-git clone --recurse-submodules git@github.com:angelhack-study-buddies/study-buddies.git
+git clone --recurse-submodules git@github.com:project-soda/study-buddies.git
 or
-git clone --recurse-submodules https://github.com/angelhack-study-buddies/study-buddies.git
+git clone --recurse-submodules https://github.com/project-soda/study-buddies.git
 ```
 
 ## 개발
